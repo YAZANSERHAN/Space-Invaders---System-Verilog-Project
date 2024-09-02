@@ -1,1 +1,1 @@
-This repository is for the project, space invaders game, usinig System Verilog - FPGA
+This repository is for the project, space invaders game,  System Verilog - FPGA
